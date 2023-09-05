@@ -1,8 +1,7 @@
 def print_hi():
-    pelajar = {"Name": "Adam", "Age": 20, "nomatrix": "18DDT21F2033"}
+    pelajar = {"Name": "Adam", "nomatrix": "18DDT21F2033"}
 
     print(pelajar["Name"])
-    print(pelajar["Age"])
     print(pelajar["nomatrix"])
 
 
